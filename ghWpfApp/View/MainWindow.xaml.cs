@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using WPFApp.ViewModels;
 
-namespace UIWpfApp.View
+namespace WPFApp.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
